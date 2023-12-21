@@ -1,7 +1,5 @@
 // const mongoose = require('mongoose');
 
-// mongoose.connect('mongodb+srv://adiagg099:aditya123@cluster0.yyssnge.mongodb.net/?retryWrites=true&w=majority')
-
 // const categorySchema = new mongoose.Schema({
 //     name: String,
 //     description: String,
